@@ -11,3 +11,7 @@ dependencies {
             "org.hamcrest:hamcrest-all:1.+"
 
 }
+
+task wrapper(type: Wrapper) {
+    gradleVersion = '2.1'
+}
