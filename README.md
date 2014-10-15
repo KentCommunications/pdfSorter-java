@@ -1,6 +1,8 @@
 Pdf Sorter
 ==========
 
+[![Build status](https://travis-ci.org/KentCommunications/pdfSorter-java.svg)](https://travis-ci.org/KentCommunications/pdfSorter-java)
+
 a PDF sorter project.
 
 
