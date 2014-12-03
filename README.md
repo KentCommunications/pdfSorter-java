@@ -1,7 +1,7 @@
 Pdf Sorter
 ==========
 
-[![Build Badge](https://img.shields.io/travis/KentCommunications/pdfSorter-java/master.svg&style=flat)](https://travis-ci.org/KentCommunications/pdfSorter-java)
+[![Build Badge](https://img.shields.io/travis/KentCommunications/pdfSorter-java/master.svg?style=flat)](https://travis-ci.org/KentCommunications/pdfSorter-java)
 [![Issues Badge](https://img.shields.io/github/issues/KentCommunications/pdfSorter-java.svg?style=flat)](https://waffle.io/kentcommunications/pdfsorter-java)
 
 Prerequisites
