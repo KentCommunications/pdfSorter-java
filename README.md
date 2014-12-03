@@ -1,7 +1,8 @@
 Pdf Sorter
 ==========
 
-[![Build status](https://travis-ci.org/KentCommunications/pdfSorter-java.svg)](https://travis-ci.org/KentCommunications/pdfSorter-java)
+[![Build Badge](https://travis-ci.org/KentCommunications/pdfSorter-java.svg&style=flat)](https://travis-ci.org/KentCommunications/pdfSorter-java)
+[![Issues Badge](https://img.shields.io/github/issues/KentCommunications/pdfSorter-java.svg&style=flat)](https://waffle.io/kentcommunications/pdfsorter-java)
 
 Prerequisites
 -------------
